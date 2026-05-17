@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 212224100026
 # Name: JAYASURYA B
-# Date: 12-05-2026
+# Date: -05-2026
 
 
 # AIM:
@@ -48,9 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-<img width="1007" height="846" alt="Screenshot 2026-05-12 110034" src="https://github.com/user-attachments/assets/8b44df41-082a-45f7-b396-28cb01e7978f" />
-
-
+<img width="1275" height="1086" alt="Screenshot 2026-05-17 104606" src="https://github.com/user-attachments/assets/27da3e10-9522-4fb1-895d-d04ec1e3dbe3" />
 
 
 # CLASS DIAGRAM
